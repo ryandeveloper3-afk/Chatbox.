@@ -1,2 +1,2 @@
-# Chatbox.
-A chatbox which has text,file,video and image gen which runs under 8gb ram 
+# Agent---BananaLite
+A agebt which can run in and 8-16 gb ram and 10 gb storage env and has avg speed and can be connected to many tools!
